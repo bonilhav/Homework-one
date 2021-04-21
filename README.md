@@ -1,0 +1,2 @@
+This file has been modified to have all working links. Additionally, the files have been modified to have condensed language. 
+The website is for Horiseon. There is information regarding Search engine optimizaztion, online reputation management and social media marketing. 
